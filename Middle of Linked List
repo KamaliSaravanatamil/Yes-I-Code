@@ -21,3 +21,4 @@ public class MiddleOfLinkedList {
         return slow; // slow reaches middle
     }
 }
+In a linked list, returning a node returns the rest of the list from that node.
